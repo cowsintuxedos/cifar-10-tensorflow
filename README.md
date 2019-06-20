@@ -1,5 +1,5 @@
-# CS 181B HW7 Andrew Lai 9519687
-Python 3 implementation of a convolutional neural network CS181B W19.
+# CIFAR-10 image classification using tensorflow
+Python 3 implementation of a convolutional neural network.
 
 Run `python prog7.py` to run the training script, and `python prog72.py` to run the prediction script; I haven't run this on CSIL, so I'm not completely sure if it works there - this is designed to be with the CUDA/GPU version of TensorFlow compiled, using an Nvidia GTX 1080 Ti. For the record, here was the final output/best accuracy with 69 epochs:
 
